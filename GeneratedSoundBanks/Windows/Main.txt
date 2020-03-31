@@ -1,0 +1,15 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3157003241	Test			\Default Work Unit\Test	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	129	MIDI note velocity			\MIDI note velocity	
+
+Modulator Envelope	ID	Name			Wwise Object Path	Notes
+	190672655	Modulator Envelope (Custom)				
+
+Effect plug-ins	ID	Name	Type				Notes
+	755913846	Wwise Parametric EQ (Custom)	Wwise Parametric EQ			
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	121596329	BASS 04	Wwise Synth One		\Actor-Mixer Hierarchy\Factory Synth One\Instruments\BASS 04\BASS 04	Audiokinetic Inc. All rights reserved. Content provided by Vincent Gagnon © 2014 Vincent Gagnon
+
