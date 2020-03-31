@@ -1,0 +1,29 @@
+{
+ "PluginInfo": {
+  "Project": "WwiseRepo",
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "Plugins": [
+   {
+    "Name": "Wwise Parametric EQ",
+    "ID": "6881283",
+    "DLL": "AkParametricEQ"
+   },
+   {
+    "Name": "Wwise Synth One",
+    "ID": "9699330",
+    "DLL": "AkSynthOne"
+   },
+   {
+    "Name": "System",
+    "ID": "11403271",
+    "DLL": "DefaultSink"
+   },
+   {
+    "Name": "No Output",
+    "ID": "11862023",
+    "DLL": "DefaultSink"
+   }
+  ]
+ }
+}

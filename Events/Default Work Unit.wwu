@@ -14,6 +14,31 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="TestExt" ID="{5BDBBAB3-B7C5-4B4A-8EAE-C8D82579D42D}">
+					<ChildrenList>
+						<Action Name="" ID="{E56A6337-4690-4ED3-8403-55EA33FE0AD8}" ShortID="734855273">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BRASSY" ID="{925AA098-946C-4DEF-9A10-A8A33DB25864}" WorkUnitID="{D9329DB3-E4D7-45AA-BD40-6EB28C6C4D39}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{6877FF11-1000-49EA-85F1-395B352F6B41}" ShortID="984359018">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FALLING OCTAVE" ID="{93570864-5F12-427F-915C-AF2729D31797}" WorkUnitID="{D9329DB3-E4D7-45AA-BD40-6EB28C6C4D39}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{2CF980DD-314D-4D53-B356-D30AF998B3E9}" ShortID="413146670">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FM 03" ID="{954540E4-60F9-4CF2-BC24-7DAF981BF54C}" WorkUnitID="{D9329DB3-E4D7-45AA-BD40-6EB28C6C4D39}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

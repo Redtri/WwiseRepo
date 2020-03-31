@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "135",
+  "RootPaths": {
+   "ProjectRoot": "C:\\Projets\\Git\\Unity\\WwiseProjectExt\\WwiseRepo\\",
+   "SourceFilesRoot": "C:\\Projets\\Git\\Unity\\WwiseProjectExt\\WwiseRepo\\.cache\\Windows\\",
+   "SoundBanksRoot": "C:\\Projets\\Git\\Unity\\WwiseProjectExt\\WwiseRepo\\GeneratedSoundBanks\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "C:\\Projets\\Git\\Unity\\WwiseProjectExt\\WwiseRepo\\GeneratedSoundBanks\\Windows"
+  },
+  "SoundBanks": [
+   {
+    "Id": "3161908922",
+    "GUID": "{715E2537-69BF-43DF-964E-5D2C3EFDA16F}",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
+    "ShortName": "Main",
+    "Path": "Main.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "3157003241",
+      "Name": "Test",
+      "ObjectPath": "\\Events\\Default Work Unit\\Test",
+      "GUID": "{F6199B3B-960E-4EC3-B893-07A7421EED93}",
+      "DurationType": "Unknown"
+     },
+     {
+      "Id": "1749614498",
+      "Name": "TestExt",
+      "ObjectPath": "\\Events\\Default Work Unit\\TestExt",
+      "GUID": "{5BDBBAB3-B7C5-4B4A-8EAE-C8D82579D42D}",
+      "DurationType": "Unknown"
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "129",
+      "Name": "MIDI note velocity",
+      "ObjectPath": "MIDI\\MIDI note velocity",
+      "GUID": "{B618CC3D-04FA-4149-A36B-37B8A1F2B642}"
+     }
+    ]
+   }
+  ]
+ }
+}

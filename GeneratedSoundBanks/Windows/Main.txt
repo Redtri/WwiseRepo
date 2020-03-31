@@ -1,15 +1,32 @@
 Event	ID	Name			Wwise Object Path	Notes
+	1749614498	TestExt			\Default Work Unit\TestExt	
 	3157003241	Test			\Default Work Unit\Test	
 
 Game Parameter	ID	Name			Wwise Object Path	Notes
 	129	MIDI note velocity			\MIDI note velocity	
 
+Modulator LFO	ID	Name			Wwise Object Path	Notes
+	425016768	Modulator LFO (Custom)				
+	535183385	LFO OCTAVE 02 (Custom)				
+	830652842	Modulator LFO (Custom)				
+
 Modulator Envelope	ID	Name			Wwise Object Path	Notes
+	50336133	Modulator Envelope (Custom)				
+	184481850	Modulator Envelope (Custom)				
 	190672655	Modulator Envelope (Custom)				
+	258736037	Modulator Envelope (Custom)				
+	456441409	Modulator Envelope (Custom)				
+	1047999604	Modulator Envelope (Custom)				
 
 Effect plug-ins	ID	Name	Type				Notes
+	61122311	Wwise Parametric EQ (Custom)	Wwise Parametric EQ			
+	667002179	Wwise Parametric EQ (Custom)	Wwise Parametric EQ			
 	755913846	Wwise Parametric EQ (Custom)	Wwise Parametric EQ			
+	1011994727	Wwise Parametric EQ (Custom)	Wwise Parametric EQ			
 
 Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	292199	FM 03	Wwise Synth One		\Actor-Mixer Hierarchy\Factory Synth One\Instruments\FM 03\FM 03	Audiokinetic Inc. All rights reserved. Content provided by Vincent Gagnon © 2014 Vincent Gagnon
 	121596329	BASS 04	Wwise Synth One		\Actor-Mixer Hierarchy\Factory Synth One\Instruments\BASS 04\BASS 04	Audiokinetic Inc. All rights reserved. Content provided by Vincent Gagnon © 2014 Vincent Gagnon
+	600450823	OCTAVE DANCE	Wwise Synth One		\Actor-Mixer Hierarchy\Factory Synth One\Instruments\FALLING OCTAVE\OCTAVE DANCE	Audiokinetic Inc. All rights reserved. Content provided by Vincent Gagnon © 2014 Vincent Gagnon
+	1041870196	BRASSY	Wwise Synth One		\Actor-Mixer Hierarchy\Factory Synth One\Instruments\BRASSY\BRASSY	Audiokinetic Inc. All rights reserved. Content provided by Vincent Gagnon © 2014 Vincent Gagnon
 
