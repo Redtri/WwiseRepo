@@ -51,6 +51,13 @@
       "ObjectPath": "\\Events\\Default Work Unit\\TestMarion",
       "GUID": "{47B6F662-BF7C-4D3A-A1A8-441D4005F323}",
       "DurationType": "Unknown"
+     },
+     {
+      "Id": "1417065244",
+      "Name": "TestMarion25",
+      "ObjectPath": "\\Events\\Default Work Unit\\TestMarion25",
+      "GUID": "{916EB21F-09B4-4B59-A0DC-7668E5BC4AD0}",
+      "DurationType": "Unknown"
      }
     ],
     "GameParameters": [

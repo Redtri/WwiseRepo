@@ -1,4 +1,5 @@
 Event	ID	Name			Wwise Object Path	Notes
+	1417065244	TestMarion25			\Default Work Unit\TestMarion25	
 	1749614498	TestExt			\Default Work Unit\TestExt	
 	2729417531	TestMarion			\Default Work Unit\TestMarion	
 	3157003241	Test			\Default Work Unit\Test	
@@ -9,8 +10,11 @@ Game Parameter	ID	Name			Wwise Object Path	Notes
 Modulator LFO	ID	Name			Wwise Object Path	Notes
 	425016768	Modulator LFO (Custom)				
 	535183385	LFO OCTAVE 02 (Custom)				
+	688763904	Modulator LFO (Custom)				
 	706598659	Modulator LFO (Custom)				
 	830652842	Modulator LFO (Custom)				
+	930542929	Modulator LFO (Custom)				
+	1040681508	Modulator LFO (Custom)				
 
 Modulator Envelope	ID	Name			Wwise Object Path	Notes
 	15291194	Modulator Envelope (Custom)				
@@ -19,13 +23,18 @@ Modulator Envelope	ID	Name			Wwise Object Path	Notes
 	190672655	Modulator Envelope (Custom)				
 	258736037	Modulator Envelope (Custom)				
 	456441409	Modulator Envelope (Custom)				
+	766291806	Modulator Envelope (Custom)				
+	804211301	Modulator Envelope (Custom)				
 	806591406	Modulator Envelope (Custom)				
+	916674723	Modulator Envelope (Custom)				
 	1047999604	Modulator Envelope (Custom)				
 
 Effect plug-ins	ID	Name	Type				Notes
 	61122311	Wwise Parametric EQ (Custom)	Wwise Parametric EQ			
+	166165081	Wwise Parametric EQ (Custom)	Wwise Parametric EQ			
 	667002179	Wwise Parametric EQ (Custom)	Wwise Parametric EQ			
 	755913846	Wwise Parametric EQ (Custom)	Wwise Parametric EQ			
+	776490616	Wwise Parametric EQ (Custom)	Wwise Parametric EQ			
 	1011994727	Wwise Parametric EQ (Custom)	Wwise Parametric EQ			
 
 Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
@@ -33,5 +42,6 @@ Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
 	121596329	BASS 04	Wwise Synth One		\Actor-Mixer Hierarchy\Factory Synth One\Instruments\BASS 04\BASS 04	Audiokinetic Inc. All rights reserved. Content provided by Vincent Gagnon © 2014 Vincent Gagnon
 	511021499	ALARM 01	Wwise Synth One		\Actor-Mixer Hierarchy\Factory Synth One\SFX\ALARM 01\ALARM 01	Audiokinetic Inc. All rights reserved. Content provided by Vincent Gagnon © 2014 Vincent Gagnon
 	600450823	OCTAVE DANCE	Wwise Synth One		\Actor-Mixer Hierarchy\Factory Synth One\Instruments\FALLING OCTAVE\OCTAVE DANCE	Audiokinetic Inc. All rights reserved. Content provided by Vincent Gagnon © 2014 Vincent Gagnon
+	877434874	COSMIC WIND	Wwise Synth One		\Actor-Mixer Hierarchy\Factory Synth One\SFX\COSMIC WIND\COSMIC WIND	Audiokinetic Inc. All rights reserved. Content provided by Vincent Gagnon © 2014 Vincent Gagnon
 	1041870196	BRASSY	Wwise Synth One		\Actor-Mixer Hierarchy\Factory Synth One\Instruments\BRASSY\BRASSY	Audiokinetic Inc. All rights reserved. Content provided by Vincent Gagnon © 2014 Vincent Gagnon
 

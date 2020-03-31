@@ -24,6 +24,7 @@
 				<Event Id="3157003241" Name="Test" ObjectPath="\Events\Default Work Unit\Test" GUID="{F6199B3B-960E-4EC3-B893-07A7421EED93}" DurationType="Unknown"/>
 				<Event Id="1749614498" Name="TestExt" ObjectPath="\Events\Default Work Unit\TestExt" GUID="{5BDBBAB3-B7C5-4B4A-8EAE-C8D82579D42D}" DurationType="Unknown"/>
 				<Event Id="2729417531" Name="TestMarion" ObjectPath="\Events\Default Work Unit\TestMarion" GUID="{47B6F662-BF7C-4D3A-A1A8-441D4005F323}" DurationType="Unknown"/>
+				<Event Id="1417065244" Name="TestMarion25" ObjectPath="\Events\Default Work Unit\TestMarion25" GUID="{916EB21F-09B4-4B59-A0DC-7668E5BC4AD0}" DurationType="Unknown"/>
 			</IncludedEvents>
 			<GameParameters>
 				<GameParameter Id="129" Name="MIDI note velocity" ObjectPath="MIDI\MIDI note velocity" GUID="{B618CC3D-04FA-4149-A36B-37B8A1F2B642}"/>
