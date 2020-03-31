@@ -6,6 +6,7 @@
 				<SoundBank Name="Main" ID="{715E2537-69BF-43DF-964E-5D2C3EFDA16F}">
 					<ObjectInclusionList>
 						<ObjectRef Name="TestExt" ID="{5BDBBAB3-B7C5-4B4A-8EAE-C8D82579D42D}" WorkUnitID="{F1209784-056E-48D2-A73A-D752CD91B066}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="TestGuillaume" ID="{C82F35B7-A43D-4C5C-B0BF-7825ABD183AA}" WorkUnitID="{F1209784-056E-48D2-A73A-D752CD91B066}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Test" ID="{F6199B3B-960E-4EC3-B893-07A7421EED93}" WorkUnitID="{F1209784-056E-48D2-A73A-D752CD91B066}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>

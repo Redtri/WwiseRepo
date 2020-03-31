@@ -39,6 +39,24 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="TestGuillaume" ID="{C82F35B7-A43D-4C5C-B0BF-7825ABD183AA}">
+					<ChildrenList>
+						<Action Name="" ID="{5FFDBC5A-23B1-4D17-BA20-9E1476E782A6}" ShortID="478971597">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="SAW" ID="{A68B0053-8E66-4407-B36E-6F80933290E3}" WorkUnitID="{D9329DB3-E4D7-45AA-BD40-6EB28C6C4D39}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{990B5EC9-C1C4-4C12-9902-FF480148413F}" ShortID="839564259">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="PERC 03" ID="{D3A03658-4F66-4784-A418-42B1AE6D8A12}" WorkUnitID="{D9329DB3-E4D7-45AA-BD40-6EB28C6C4D39}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

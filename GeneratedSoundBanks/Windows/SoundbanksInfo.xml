@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
 	<RootPaths>
-		<ProjectRoot>C:\Users\ELE5d5ab2311be45\Documents\ECOLE\ENJMIN\COURS\PROJETS\PROJETSM1\Factory\GITSessionWwise\WwiseTest\WwiseRepo\</ProjectRoot>
-		<SourceFilesRoot>C:\Users\ELE5d5ab2311be45\Documents\ECOLE\ENJMIN\COURS\PROJETS\PROJETSM1\Factory\GITSessionWwise\WwiseTest\WwiseRepo\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>C:\Users\ELE5d5ab2311be45\Documents\ECOLE\ENJMIN\COURS\PROJETS\PROJETSM1\Factory\GITSessionWwise\WwiseTest\WwiseRepo\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ProjectRoot>C:\Projets\Git\Unity\UnityWwise\WwiseRepo\</ProjectRoot>
+		<SourceFilesRoot>C:\Projets\Git\Unity\UnityWwise\WwiseRepo\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Projets\Git\Unity\UnityWwise\WwiseRepo\GeneratedSoundBanks\Windows\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>C:\Users\ELE5d5ab2311be45\Documents\ECOLE\ENJMIN\COURS\PROJETS\PROJETSM1\Factory\GITSessionWwise\WwiseTest\WwiseRepo\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>C:\Projets\Git\Unity\UnityWwise\WwiseRepo\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
@@ -23,8 +23,7 @@
 			<IncludedEvents>
 				<Event Id="3157003241" Name="Test" ObjectPath="\Events\Default Work Unit\Test" GUID="{F6199B3B-960E-4EC3-B893-07A7421EED93}" DurationType="Unknown"/>
 				<Event Id="1749614498" Name="TestExt" ObjectPath="\Events\Default Work Unit\TestExt" GUID="{5BDBBAB3-B7C5-4B4A-8EAE-C8D82579D42D}" DurationType="Unknown"/>
-				<Event Id="2729417531" Name="TestMarion" ObjectPath="\Events\Default Work Unit\TestMarion" GUID="{47B6F662-BF7C-4D3A-A1A8-441D4005F323}" DurationType="Unknown"/>
-				<Event Id="1417065244" Name="TestMarion25" ObjectPath="\Events\Default Work Unit\TestMarion25" GUID="{916EB21F-09B4-4B59-A0DC-7668E5BC4AD0}" DurationType="Unknown"/>
+				<Event Id="365176778" Name="TestGuillaume" ObjectPath="\Events\Default Work Unit\TestGuillaume" GUID="{C82F35B7-A43D-4C5C-B0BF-7825ABD183AA}" DurationType="Unknown"/>
 			</IncludedEvents>
 			<GameParameters>
 				<GameParameter Id="129" Name="MIDI note velocity" ObjectPath="MIDI\MIDI note velocity" GUID="{B618CC3D-04FA-4149-A36B-37B8A1F2B642}"/>
