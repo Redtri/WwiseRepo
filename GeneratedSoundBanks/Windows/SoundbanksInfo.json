@@ -5,11 +5,11 @@
   "SchemaVersion": "12",
   "SoundbankVersion": "135",
   "RootPaths": {
-   "ProjectRoot": "C:\\Projets\\Git\\Unity\\WwiseProjectExt\\WwiseRepo\\",
-   "SourceFilesRoot": "C:\\Projets\\Git\\Unity\\WwiseProjectExt\\WwiseRepo\\.cache\\Windows\\",
-   "SoundBanksRoot": "C:\\Projets\\Git\\Unity\\WwiseProjectExt\\WwiseRepo\\GeneratedSoundBanks\\Windows\\",
+   "ProjectRoot": "C:\\Users\\ELE5d5ab2311be45\\Documents\\ECOLE\\ENJMIN\\COURS\\PROJETS\\PROJETSM1\\Factory\\GITSessionWwise\\WwiseTest\\WwiseRepo\\",
+   "SourceFilesRoot": "C:\\Users\\ELE5d5ab2311be45\\Documents\\ECOLE\\ENJMIN\\COURS\\PROJETS\\PROJETSM1\\Factory\\GITSessionWwise\\WwiseTest\\WwiseRepo\\.cache\\Windows\\",
+   "SoundBanksRoot": "C:\\Users\\ELE5d5ab2311be45\\Documents\\ECOLE\\ENJMIN\\COURS\\PROJETS\\PROJETSM1\\Factory\\GITSessionWwise\\WwiseTest\\WwiseRepo\\GeneratedSoundBanks\\Windows\\",
    "ExternalSourcesInputFile": "",
-   "ExternalSourcesOutputRoot": "C:\\Projets\\Git\\Unity\\WwiseProjectExt\\WwiseRepo\\GeneratedSoundBanks\\Windows"
+   "ExternalSourcesOutputRoot": "C:\\Users\\ELE5d5ab2311be45\\Documents\\ECOLE\\ENJMIN\\COURS\\PROJETS\\PROJETSM1\\Factory\\GITSessionWwise\\WwiseTest\\WwiseRepo\\GeneratedSoundBanks\\Windows"
   },
   "DialogueEvents": [],
   "StreamedFiles": [],
@@ -43,6 +43,13 @@
       "Name": "TestExt",
       "ObjectPath": "\\Events\\Default Work Unit\\TestExt",
       "GUID": "{5BDBBAB3-B7C5-4B4A-8EAE-C8D82579D42D}",
+      "DurationType": "Unknown"
+     },
+     {
+      "Id": "2729417531",
+      "Name": "TestMarion",
+      "ObjectPath": "\\Events\\Default Work Unit\\TestMarion",
+      "GUID": "{47B6F662-BF7C-4D3A-A1A8-441D4005F323}",
       "DurationType": "Unknown"
      }
     ],
