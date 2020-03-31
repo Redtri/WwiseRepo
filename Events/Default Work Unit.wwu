@@ -57,6 +57,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="TestGuillaume1" ID="{FF8E63A5-4270-42D3-AF89-857D562FFCEF}">
+					<ChildrenList>
+						<Action Name="" ID="{B9106499-CAFC-49E1-BC5D-21098DD9CA98}" ShortID="710146650">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="NOISE RND" ID="{2E15B033-BE33-4472-A648-B1F8A0B6D360}" WorkUnitID="{D9329DB3-E4D7-45AA-BD40-6EB28C6C4D39}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
